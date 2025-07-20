@@ -151,8 +151,8 @@ th, td {
 }
 
 th {
-    background-color: #ede7f6;
-    color: #333;
+    background-color: #e9c74b;
+    color: white;
     font-weight: bold;
 }
 
@@ -161,12 +161,14 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-    background-color: #f0ebf8;
+    background-color: #e9c74b;
+    color: white;
 }
 
 td {
     word-break: break-word;
 }
+
 
 /* Responsive Design */
 @media (max-width: 600px) {
